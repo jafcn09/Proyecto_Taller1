@@ -1,0 +1,18 @@
+---------------------------------------------Lista de productos-----------------------------------------------------
+Codigo |          Nombre          |          Descripcion          |  Precio  |   Marca   | Talla |    Modelos
+-----------------------------------------------------------------------------------------------------------------------
+ 1        | camisa                   | verde                        | S/.90    | Lacoste      | S, L    | Hombre
+ 2        | Short                     | azul                         | S/.120    | Adidas      | M, XL    | Hombre
+ 3        | Jean                     | azul                          | S/.190    | GUCCI      | XL, XXL   | Ambos
+ 4        | Falda                     | Rosa                        | S/.100    | YAMY      | S, M   | Mujer
+ 5        | polo                     | negro                        | S/.65    | Puma      | M, L      | ambos
+ 6        | Camisa                     | blanca                     | S/.60    | Lacoste      | XS, S  | Hombre
+ 7        | jean                     | rosa                         | S/.90    | Levis      | XL      | ambos
+ 8        | Jean                     | verde                         | S/.80     | Armani Jeans| XL      | ambos
+ 9        | Camiseta                   | Anaranjado                | S/.44   | Adidas      | M         | mujer
+ 10       | Camiseta                     | rojo                      | S/.50     | Nike      | XS, S, M  | ambos
+ 11       | Camisa                     | Morado                     | S/.64     | Lacoste      | XL      | mujer
+ 12       | Polo                     | rojo                          | S/.30     | Volcom      | S      | mujer
+ 13       | Camisa                     | azul                       | S/.110     | GUCCI      | L      | Hombre
+ 14       | Jeans                     | Rosa                        | S/.99     | PAIGE      | L, XL      | Mujer
+ 15       | Camisa                     | Celeste                     | S/.55     | Hollister      | M      | Hombre

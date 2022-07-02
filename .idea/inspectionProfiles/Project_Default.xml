@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E117" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStringFormatInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Ejercicio5.tipo_vehiuclo" />
+          <option value="NUEVO_PROYECTO.Ingreso_sesion.Entry" />
+          <option value="NUEVO_PROYECTO.Ingreso_sesion.Label" />
+          <option value="NUEVO_PROYECTO.Ingreso_sesion.verifica_login" />
+          <option value="NUEVO_PROYECTO.Ingreso_sesion.Button" />
+          <option value="NUEVO_PROYECTO.Ingreso_sesion.E_Usuario_R" />
+          <option value="NUEVO_PROYECTO.Ingreso_sesion.Btn_inicio_sesion" />
+          <option value="NUEVO_PROYECTO.Ingreso_sesion.E_Usuario" />
+          <option value="NUEVO_PROYECTO.Ingreso_sesion.E_contra" />
+          <option value="NUEVO_PROYECTO.mostrar_inventario.cajatexto_codigo" />
+          <option value="NUEVO_PROYECTO.mostrar_inventario.cajatext_codigo" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
